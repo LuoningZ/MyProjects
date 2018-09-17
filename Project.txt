@@ -1,0 +1,10 @@
+title: LimGuide (行在利莫)
+
+projtitle: An app help Chinese visitors to have a quick guide when they traveling to Limerick.
+
+content: LimGuide (行在利莫) is an app which helps Chinese visitors have a quick and direct understanding about Limerick, this app would be useful to Chinese people who come to Limerick first time, this is a multi-function app, Chinese people can use this app to solve some basic problems which always happened during their travel in Ireland. Because of different culture and customs, there are many differences between China and Ireland, so when Chinese people came to Ireland, some problems appear and they would be confused. The aim of the app is to try to increase these differences, let Chinese people can be familiar with Ireland. This app would solve some main problems Chinese people faced.
+<br />
+Before Chinese people came to Ireland, they always need to search for some strategies and make plans to have a basic understanding about Ireland, so this app would provide some related useful information, they can use this app to inquire about local transportation, search some daily problems, have brief understandings of those tour attractions to save more time on make travel plan etc. Besides, this app can also provide some local special events information to people, which can provide Chinese people have a unique communication with the local culture and lifestyle. 
+<br />
+
+Email: lavendon36@gmail.com
