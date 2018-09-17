@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+    </FrameLayout>
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@android:color/white"
+        android:orientation="horizontal"
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp"
+        android:elevation="8dp">
+
+        <RadioButton
+            android:id="@+id/homeTab1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:button="@null"
+            android:checked="true"
+            android:drawableTop="@drawable/selector_home_tab1"
+            android:gravity="center"
+            android:text="首页Home"
+            android:textColor="@drawable/home_tab_color"
+            android:textSize="10sp"
+            android:background="@android:color/white"/>
+
+        <RadioButton
+            android:id="@+id/homeTab2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/selector_home_tab2"
+            android:gravity="center"
+            android:text="旅行攻略TravelTips"
+            android:textColor="@drawable/home_tab_color"
+            android:textSize="10sp"
+            android:background="@android:color/white"/>
+
+        <RadioButton
+            android:id="@+id/homeTab3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/selector_home_tab3"
+            android:gravity="center"
+            android:text="天气Weather"
+            android:textColor="@drawable/home_tab_color"
+            android:textSize="10sp"
+            android:background="@android:color/white"/>
+
+        <RadioButton
+            android:id="@+id/homeTab4"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/selector_home_tab4"
+            android:gravity="center"
+            android:text="我的Account"
+            android:textColor="@drawable/home_tab_color"
+            android:textSize="10sp"
+            android:background="@android:color/white"/>
+
+    </RadioGroup>
+
+</LinearLayout>
